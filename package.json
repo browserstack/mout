@@ -47,7 +47,7 @@
     "requirejs": "2.x",
     "nodefy": "*",
     "mdoc": "~0.3.2",
-    "handlebars": "~1.0.6",
+    "handlebars": "~4.7.6",
     "commander": "~1.0.5",
     "rocambole": "~0.2.3",
     "jshint": "2.x",
